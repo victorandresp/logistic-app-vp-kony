@@ -29,20 +29,29 @@
         "needAppMenu": false
     },
     "canUpdateUI": true,
-    "children": [],
+    "children": [
+        "bottomGreen",
+        "welcomeImage",
+        "flxWelcomeTitle",
+        "welcomeDescription",
+        "RoundFloatingButton"
+    ],
     "containerweight": 100,
     "controllerInfo": {
         "default": {
             "channel": "mobile",
-            "name": "Form1Controller"
+            "name": "WelcomeScreenController"
         }
     },
+    "currentLocale": "default",
     "desktopweb": {
         "needAppMenu": false
     },
+    "device": "iPhoneSE",
     "displayorientation": 1,
     "enabledforidletimeout": false,
-    "id": "Form1",
+    "friendlyName": "WelcomeScreen",
+    "id": "WelcomeScreen",
     "info": null,
     "initdone": false,
     "inputaccessoryviewtype": 4,
@@ -93,9 +102,13 @@
     "name": "kony.ui.Form2",
     "needappmenu": false,
     "paddinginpixel": false,
+    "platform": "iphone",
+    "prevDevice": "iPhoneXS",
+    "prevPlatform": "android",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainscrollposition": false,
+    "shellCSS": "iOS_iPhoneSE",
     "snapgridsize": 10,
     "snaptogrid": true,
     "spaan": {

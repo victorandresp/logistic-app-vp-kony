@@ -32,6 +32,7 @@
     "Pictures_Library_Access": "true",
     "Proximity": "true",
     "Removable_Storage": "true",
+    "SELECTED_THEME": "default",
     "Server side mobile web": "false",
     "Shared_User_Certificate": "true",
     "Shared_User_Certificates": "true",
@@ -278,6 +279,7 @@
     "category": "app",
     "chat": "false",
     "cloud_account_guid": "3e3dcd38-e97f-466c-8ab1-2346b1e38a21",
+    "cloud_account_id": "100000191",
     "codeGeneration": "false",
     "contacts": "false",
     "cordovaModified": false,
@@ -402,9 +404,9 @@
     "mwhttpsportkey": "",
     "mwportkey": "",
     "nativeContainerProperties": {
-        "isEnableJSContainer": false,
-        "isEnableJSContainerAndroid": false,
-        "isEnableJSContaineriOS": false,
+        "isEnableJSContainer": true,
+        "isEnableJSContainerAndroid": true,
+        "isEnableJSContaineriOS": true,
         "isModified": true
     },
     "objects3D": "false",
