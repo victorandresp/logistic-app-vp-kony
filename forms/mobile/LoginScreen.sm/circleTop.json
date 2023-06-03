@@ -1,0 +1,60 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_children_": [],
+    "_height_": {
+        "type": "string",
+        "value": "180dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_right_": {
+        "type": "string",
+        "value": "-70dp"
+    },
+    "_skin_": "s6e8ed549b814e73aa0988c3f0a2eb49",
+    "_top_": {
+        "type": "string",
+        "value": "-70dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "180dp"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "clipbounds": true,
+    "containerweight": 0,
+    "data": {},
+    "enablescrolling": true,
+    "id": "circleTop",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "j6917094b5214d64a2348c549cbc51cc",
+    "layouttype": 2,
+    "masterType": 1,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "LoginScreen",
+    "pf": "LoginScreen",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "sourceUserWidget": "fe3b52fb1eaf4e2e990b461e5b526a78",
+    "wType": "UserWidgetInstance"
+}
