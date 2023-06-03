@@ -1,0 +1,135 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_android_": {},
+    "_androidwearos_": {},
+    "_children_": [],
+    "_desktopweb_": {},
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_ipad_": {},
+    "_iphone_": {},
+    "_kiosk_": {},
+    "_left_": {
+        "type": "string",
+        "value": "30dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s4367d2c2a234c99820059406f480e90",
+    "_spa_": {},
+    "_spaan_": {},
+    "_spaandroidtablet_": {},
+    "_spabb_": {},
+    "_spaip_": {},
+    "_spaipad_": {},
+    "_spamobile_": {},
+    "_spatablet_": {},
+    "_spawindowstablet_": {},
+    "_spawinphone8_": {},
+    "_tabrcandroid_": {},
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_vizProps_": {
+        "hidewidgethierarchy": false
+    },
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_windows10_": {},
+    "_windows8_": {},
+    "_winphone10_": {},
+    "_winphone8_": {},
+    "areflexpropsreferenced": false,
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "clipbounds": true,
+    "containerweight": 0,
+    "dataDiffs": {
+        "flexInput": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "f6a8d66fb3994b3fb1a3b5612daa08a0",
+                "srcKUID": "ada7bb22e2f54b9187aeabe0be7bda24",
+                "wType": "FlexContainer"
+            }
+        },
+        "formInput": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "c278635fee7045d3bcafec08e2911cb8",
+                "srcKUID": "db08b37e11f640d4bac931a78027d263",
+                "wType": "FlexContainer"
+            },
+            "left": {
+                "Default": {
+                    "type": "string",
+                    "value": "30dp"
+                }
+            }
+        },
+        "inputIcon": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "b5417ba0c5eb4acab3405182f3b45676",
+                "srcKUID": "e2765f24a03d455e857e703a5bff8048",
+                "wType": "Label"
+            }
+        },
+        "lblFormInput": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "id3af1d8ac974ce4b0fd847b5751bc3d",
+                "srcKUID": "dec52f76dbcb47afbd6efa9c9f306a90",
+                "wType": "Label"
+            },
+            "text": "First Name"
+        },
+        "textInput": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "f165870565a148c49a6cdce540f7b8e2",
+                "srcKUID": "i2396ee181f7492a80ca783db1807808",
+                "wType": "TextField"
+            }
+        }
+    },
+    "enablescrolling": true,
+    "id": "inputFirstName",
+    "info": null,
+    "iscustomlayout": false,
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "c278635fee7045d3bcafec08e2911cb8",
+    "layouttype": 4,
+    "masterType": 0,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "flexPrincipalSignInScreen",
+    "pf": "SignUpScreen",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "sourceUserWidget": "db08b37e11f640d4bac931a78027d263",
+    "wType": "UserWidgetInstance"
+}

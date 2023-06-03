@@ -32,13 +32,13 @@
     "children": [
         "bottomGreen",
         "circleTop",
-        "flexPrincipalLoginScreen"
+        "flexPrincipalSignInScreen"
     ],
     "containerweight": 100,
     "controllerInfo": {
         "default": {
             "channel": "mobile",
-            "name": "LoginScreenController"
+            "name": "SignUpScreenController"
         }
     },
     "currentLocale": "default",
@@ -49,7 +49,7 @@
     "displayorientation": 1,
     "enabledforidletimeout": false,
     "friendlyName": "LoginScreen",
-    "id": "LoginScreen",
+    "id": "SignUpScreen",
     "info": null,
     "initdone": false,
     "inputaccessoryviewtype": 4,
@@ -101,7 +101,7 @@
     "needappmenu": false,
     "paddinginpixel": false,
     "platform": "iphone",
-    "prevDevice": "iPhoneSE",
+    "prevDevice": "iPhone7",
     "prevPlatform": "iphone",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

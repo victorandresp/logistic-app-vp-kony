@@ -22,11 +22,11 @@
         0,
         0
     ],
-    "_skin_": "sded4d3eb33e41eab10f103506bf24aa",
-    "_text_": "Create a Free",
+    "_skin_": "s93ebc583a6d4736a745ff90812dbad4",
+    "_text_": "Account",
     "_top_": {
-        "type": "number",
-        "value": "60"
+        "type": "string",
+        "value": "0"
     },
     "_width_": {
         "type": "ref",
@@ -42,7 +42,7 @@
     "canUpdateUI": true,
     "containerweight": 100,
     "contentalignment": 4,
-    "id": "lblCreateFree",
+    "id": "lblAccount",
     "info": null,
     "ipad": {
         "psp": {
@@ -56,10 +56,10 @@
     },
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "b0ae7d14020240418f498172080c7a09",
+    "kuid": "dfe1180bef4d4045a481b0dda3ccc62c",
     "name": "kony.ui.Label",
-    "parent": "flexPrincipalLoginScreen",
-    "pf": "LoginScreen",
+    "parent": "flexPrincipalSignInScreen",
+    "pf": "SignUpScreen",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "textstyle": {},

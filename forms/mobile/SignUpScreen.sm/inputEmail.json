@@ -1,0 +1,143 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_android_": {},
+    "_androidwearos_": {},
+    "_children_": [],
+    "_desktopweb_": {},
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_ipad_": {},
+    "_iphone_": {},
+    "_kiosk_": {},
+    "_left_": {
+        "type": "string",
+        "value": "30dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s4367d2c2a234c99820059406f480e90",
+    "_spa_": {},
+    "_spaan_": {},
+    "_spaandroidtablet_": {},
+    "_spabb_": {},
+    "_spaip_": {},
+    "_spaipad_": {},
+    "_spamobile_": {},
+    "_spatablet_": {},
+    "_spawindowstablet_": {},
+    "_spawinphone8_": {},
+    "_tabrcandroid_": {},
+    "_top_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_vizProps_": {
+        "hidewidgethierarchy": false
+    },
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_windows10_": {},
+    "_windows8_": {},
+    "_winphone10_": {},
+    "_winphone8_": {},
+    "areflexpropsreferenced": false,
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "clipbounds": true,
+    "containerweight": 0,
+    "dataDiffs": {
+        "flexInput": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "aa84a8d8e7f843afa21af55fc25cd790",
+                "srcKUID": "ada7bb22e2f54b9187aeabe0be7bda24",
+                "wType": "FlexContainer"
+            }
+        },
+        "formInput": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "b1b5857c97e94dc78bd08cf98003cece",
+                "srcKUID": "db08b37e11f640d4bac931a78027d263",
+                "wType": "FlexContainer"
+            },
+            "left": {
+                "Default": {
+                    "type": "string",
+                    "value": "30dp"
+                }
+            },
+            "top": {
+                "Default": {
+                    "type": "string",
+                    "value": "10dp"
+                }
+            }
+        },
+        "inputIcon": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "hd5b780f61554e0da1d3daa654133e09",
+                "srcKUID": "e2765f24a03d455e857e703a5bff8048",
+                "wType": "Label"
+            },
+            "text": ""
+        },
+        "lblFormInput": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "hb215951e59d4652a77d3b033a123d27",
+                "srcKUID": "dec52f76dbcb47afbd6efa9c9f306a90",
+                "wType": "Label"
+            },
+            "text": "Email"
+        },
+        "textInput": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "g4d41eaf74cd42cda2c84d1f6660d57b",
+                "srcKUID": "i2396ee181f7492a80ca783db1807808",
+                "wType": "TextField"
+            },
+            "secureTextEntry": false
+        }
+    },
+    "enablescrolling": true,
+    "id": "inputEmail",
+    "info": null,
+    "iscustomlayout": false,
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "b1b5857c97e94dc78bd08cf98003cece",
+    "layouttype": 4,
+    "masterType": 0,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "flexPrincipalSignInScreen",
+    "pf": "SignUpScreen",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "sourceUserWidget": "db08b37e11f640d4bac931a78027d263",
+    "wType": "UserWidgetInstance"
+}
